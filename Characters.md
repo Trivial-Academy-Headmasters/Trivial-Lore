@@ -10,7 +10,7 @@ The following is how all students should be listed here:
 - Name
   - Age
   - Birthday
-  - Gender(?) (Only applicable if we decide to include non-binary characters)
+  - Gender(?) (Only applicable if the character does not identify as non-binary.)
   - Grade
   - Preferred Subject
   - Likes
